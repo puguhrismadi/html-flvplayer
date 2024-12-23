@@ -41,3 +41,6 @@ Contoh Sederhana Source Code index.html
 </html>
 
 ```
+
+Hasil Output : 
+![hasil](/screenshot/Screen%20Shot%202024-12-23%20at%2016.03.04.png "output flv player")
