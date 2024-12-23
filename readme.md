@@ -4,7 +4,7 @@ Requrement :
 
 * Library mpegts.js : [https://cdn.jsdelivr.net/npm/mpegts.js](https://cdn.jsdelivr.net/npm/mpegts.js "mpegts.js dari cdn")
 * Video yang digunakan : dalam projek ini adalah video  streaming format flv yang di publish menggunakan obs studio
-* Platform streaming : Oryx (SRS Stack ) Platform Streaming (sumber : [https://github.com/ossrs/srs](https://github.com/ossrs/srs "Oryx (SRS Stack platform)"))
+* Link SRS Oryx (SRS Stack) : [https://github.com/ossrs/oryx](https://github.com/ossrs/oryx "oryx")
 
 Contoh Sederhana Source Code index.html
 
