@@ -1,4 +1,10 @@
-### **Simple FLV player In HTML Using mpegts.js**
+### **Simple FLV player pada kode HTML Menggunakan Library mpegts.js**
+
+Requrement : 
+
+* Library mpegts.js : [https://cdn.jsdelivr.net/npm/mpegts.js](https://cdn.jsdelivr.net/npm/mpegts.js "mpegts.js dari cdn")
+* Video yang digunakan : dalam projek ini adalah video  streaming format flv yang di publish menggunakan obs studio
+* Platform streaming : Oryx (SRS Stack ) Platform Streaming (sumber : [https://github.com/ossrs/srs](https://github.com/ossrs/srs "Oryx (SRS Stack platform)"))
 
 Contoh Sederhana Source Code index.html
 
@@ -42,5 +48,5 @@ Contoh Sederhana Source Code index.html
 
 ```
 
-Hasil Output : 
+Hasil Output :
 ![hasil](/screenshot/Screen%20Shot%202024-12-23%20at%2016.03.04.png "output flv player")
