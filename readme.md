@@ -1,6 +1,6 @@
 ### **Simple FLV player pada kode HTML Menggunakan Library mpegts.js**
 
-Requrement : 
+Requrement :
 
 * Library mpegts.js : [https://cdn.jsdelivr.net/npm/mpegts.js](https://cdn.jsdelivr.net/npm/mpegts.js "mpegts.js dari cdn")
 * Video yang digunakan : dalam projek ini adalah video  streaming format flv yang di publish menggunakan obs studio
@@ -50,3 +50,10 @@ Contoh Sederhana Source Code index.html
 
 Hasil Output :
 ![hasil](/screenshot/Screen%20Shot%202024-12-23%20at%2016.03.04.png "output flv player")
+Penggunaan Bandwith  :
+
+* Tools Penggukuran inbound dan outbound menggunakan srs console dari SRS Stack (Oryx)
+* Pada Record Pertama adalah penggunaan bandwith dari sumber asli streaming
+* Pada Record Kedua adalah penggunaan bandwith dari video yang sudah di transcoding menggunakan fitur dari Oryx
+
+![hasil](/screenshot/bandwith-usage.png "Penggunaan Bandwith Streaming")
